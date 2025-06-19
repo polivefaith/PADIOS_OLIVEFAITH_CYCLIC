@@ -3,8 +3,8 @@ AC128 Assignment 2 Coding the Cyclic Graph
 
 This project includes two C++ programs (`cyclic_bfs.cpp` and `cyclic_dfs.cpp`) that check for **cycles in a directed graph** using two different algorithms:
 
-`cyclic_bfs.cpp` — Uses **Kahn's Algorithm** (Topological Sort via BFS)
-`cyclic_dfs.cpp` — Uses **DFS-based Cycle Detection**
+- `cyclic_bfs.cpp` — Uses **Kahn's Algorithm** (Topological Sort via BFS)
+- `cyclic_dfs.cpp` — Uses **DFS-based Cycle Detection**
 
 ## Input Format
 1. Enter the **number of vertices**
@@ -24,8 +24,8 @@ g++ cyclic_bfs.cpp -o cyclic_bfs
 #### Compile `cyclic_dfs.cpp`
 g++ cyclic_dfs.cpp -o cyclic_dfs
 ### 4. Run the Programs
-./cyclic_bfs
-./cyclic_dfs
+- ./cyclic_bfs
+- ./cyclic_dfs
 
 
 
